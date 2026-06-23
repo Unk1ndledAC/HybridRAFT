@@ -1,4 +1,4 @@
-# HybridRAFT
+# HybridRAFT: Hybrid Retrieval-Augmented Forecasting Network for Traffic Flow Prediction
 
 [![DOI](https://img.shields.io/badge/DOI-zenodo.20806264-blue.svg)](https://doi.org/10.5281/zenodo.20806264) 
 
@@ -147,7 +147,7 @@ This paper has been accepted by **IEEE SMC 2026** ([Link](https://www.ieeesmc202
 
 ```bibtex
 @inproceedings{qiu2026hybridraft,
-  title = {HybridRAFT: A Main-Auxiliary Augmentation Architecture for Long-term Time Series Forecasting},
+  title = {Hybrid Retrieval-Augmented Forecasting Network for Traffic Flow Prediction},
   author={Qiu, Jingxiang and Qu, Guanheng and Li, Jianrui and Liu, Jiangming},
   journal={},
   year={2026},
