@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyTorch & model artifacts
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Data
+data/
+*.csv
+*.h5
+*.npz
+!data/.gitkeep
+
+# Logs & outputs
+logs/
+*.log
+test_results/
+result_long_term_forecast.txt
+
+# Environment & config
+.env
+*.local
+
+# Misc
+nohup.out
