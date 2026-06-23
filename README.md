@@ -1,5 +1,7 @@
 # HybridRAFT
 
+[![DOI](https://img.shields.io/badge/DOI-zenodo.20806264-blue.svg)](https://doi.org/10.5281/zenodo.20806264) 
+
 **HybridRAFT** is a deep learning model for **long-term multivariate time series forecasting**. It builds upon the RAFT (Retrieval-Augmented Forecasting Transformer) backbone and introduces three auxiliary modules to enhance predictive signals through a *main-auxiliary augmentation architecture*.
 
 ## Architecture
