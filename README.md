@@ -145,7 +145,6 @@ This paper has been accepted by **IEEE SMC 2026** ([Link](https://www.ieeesmc202
 
 ```bibtex
 @inproceedings{qiu2026hybridraft,
-  author = {xuehai2233},
   title = {HybridRAFT: A Main-Auxiliary Augmentation Architecture for Long-term Time Series Forecasting},
   author={Qiu, Jingxiang and Qu, Guanheng and Li, Jianrui and Liu, Jiangming},
   journal={},
@@ -153,7 +152,7 @@ This paper has been accepted by **IEEE SMC 2026** ([Link](https://www.ieeesmc202
   address={Bellevue, WA, USA},
   month={October},
   url={},
-  doi = {10.5281/zenodo.20051973},
+  doi = {10.5281/zenodo.20806264},
   note={Accepted for publication},
 }
 ```
