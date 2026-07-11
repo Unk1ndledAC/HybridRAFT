@@ -279,9 +279,9 @@ This paper has been accepted by  [IEEE SMC 2026](https://www.ieeesmc2026.org/). 
 or
 ```
 @software{Qiu_HybridRAFT_2026,
-  author = {Qiu, Jingxiang and Qu, Guanheng and Li, Jianrui and Liu, Jiangming},
+  author = {Qiu, Jingxiang and Qu, Guanheng and Qu, Guanheng and Liu, Jiangming},
   doi = {10.5281/zenodo.20806264},
-  month = June,
+  month = jul,
   title = {{HybridRAFT}},
   url = {https://github.com/Unk1ndledAC/HybridRAFT},
   version = {1.0.1},
