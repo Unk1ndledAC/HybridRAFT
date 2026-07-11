@@ -261,7 +261,7 @@ HybridRAFT/
 
 ## Citations
 
-This paper has been accepted by  [IEEE SMC 2026](https://www.ieeesmc2026.org/). If you find this work helpful, please cite:
+This paper has been accepted by *2026 IEEE International Conference on Systems, Man, and Cybernetics* ([SMC 2026](https://www.ieeesmc2026.org/)). If you find this work helpful, please cite:
 
 ```bibtex
 @inproceedings{qiu2026hybridraft,
