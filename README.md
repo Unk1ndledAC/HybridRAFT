@@ -284,7 +284,7 @@ or
   month = jul,
   title = {{HybridRAFT}},
   url = {https://github.com/Unk1ndledAC/HybridRAFT},
-  version = {1.0.3},
+  version = {1.0.4},
   year = {2026}
 }
 
