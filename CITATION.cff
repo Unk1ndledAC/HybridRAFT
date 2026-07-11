@@ -1,20 +1,20 @@
-cff-version: 1.0.2
+cff-version: 1.0.3
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: Qiu
   given-names: Jingxiang
   orcid: https://orcid.org/0009-0004-1298-2889
-- family-names: Qu
-  given-names: Guanheng
+- family-names: Li
+  given-names: Jianrui
   orcid: https://orcid.org/0009-0007-9694-8945
-- family-names: Qu
+- family-names: Li
   given-names: Guanheng
   orcid: https://orcid.org/0009-0002-3841-8915
 - family-names: Liu
   given-names: Jiangming
   orcid: https://orcid.org/0000-0002-2178-2385
 title: "HybridRAFT"
-version: 1.0.2
+version: 1.0.3
 doi: 10.5281/zenodo.20806264
 date-released: 2026-07-11
 url: "https://github.com/Unk1ndledAC/HybridRAFT"
